@@ -1,19 +1,69 @@
-<h1 align="center">Hi 👋, I'm Dusty</h1>
-<h3 align="center">Student, Businessman, Software Engineer...</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Dusty Group Private Limited](dustygroup.com)
+# Hey, I'm Dusty
 
-- 🌱 I’m currently learning **Java, Kotlin**
+### Builder • Entrepreneur • Software Engineer
 
-- 💬 Ask me about **My business**
+Founder at **[Dusty Group Private Limited](https://dustygroup.com)**  
+Currently building **[Trovad](https://www.linkedin.com/company/trovad/)** and turning ideas into shippable products.
 
-- 📫 How to reach me **dusty@dustyhive.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hellodusty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellodusty)
+[![Website](https://img.shields.io/badge/Website-dustygroup.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dustygroup.com)
+[![Trovad](https://img.shields.io/badge/Trovad-Coming%20Soon-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/company/trovad/)
 
-- ⚡ Fun fact **I am Audiophile**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&width=720&lines=Building+brands%2C+products%2C+and+systems.;Founder+mindset.+Engineer+execution.;Always+shipping+the+next+thing." alt="Typing intro" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div>
+
+---
+
+## About me
+
+- Building companies, products, and digital experiences from zero to launch
+- Founder of **Dusty Group Private Limited**
+- Currently shaping **Trovad** as a new brand under the group
+- Interested in product engineering, automation, cloud infrastructure, and clean user experiences
+- I like work that moves fast but still feels polished
+
+## What I'm focused on
+
+- Launching modern web products
+- Turning brand ideas into real, usable experiences
+- Exploring better workflows with AI and automation
+- Growing a strong mix of business, product, and engineering execution
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## GitHub snapshot
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heydusty&show_icons=true&hide_border=true&bg_color=00000000&title_color=1D4ED8&icon_color=1D4ED8&text_color=334155&ring_color=1D4ED8" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heydusty&layout=compact&hide_border=true&bg_color=00000000&title_color=1D4ED8&text_color=334155" alt="Top languages" />
+</div>
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/hellodusty)
+- [Dusty Group](https://dustygroup.com)
+- [Trovad](https://www.linkedin.com/company/trovad/)
+
+---
+
+<div align="center">
+  <sub>Built with founder energy, product taste, and a lot of shipping.</sub>
+</div>
