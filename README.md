@@ -1,38 +1,40 @@
 <div align="center">
 
-# Hey, I'm Dusty
-
-### Builder • Entrepreneur • Software Engineer
-
-Founder at **[Dusty Group Private Limited](https://dustygroup.com)**  
-Currently building **[Trovad](https://www.linkedin.com/company/trovad/)** and turning ideas into shippable products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:2563EB,70:60A5FA,100:F59E0B&height=180&section=header&text=Hey,%20I'm%20Dusty&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%E2%80%A2%20Entrepreneur%20%E2%80%A2%20Software%20Engineer&descAlignY=60" alt="Header banner" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hellodusty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellodusty)
 [![Website](https://img.shields.io/badge/Website-dustygroup.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dustygroup.com)
 [![Trovad](https://img.shields.io/badge/Trovad-Coming%20Soon-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/company/trovad/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&width=720&lines=Building+brands%2C+products%2C+and+systems.;Founder+mindset.+Engineer+execution.;Always+shipping+the+next+thing." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&width=860&lines=Building+brands%2C+products%2C+and+systems.;Founder+brain.+Engineer+hands.;Shipping+ideas+until+they+become+real." alt="Typing intro" />
 
 </div>
 
----
+## A little about me
 
-## About me
+I like building things that feel sharp, useful, and alive.
 
-- Building companies, products, and digital experiences from zero to launch
-- Founder of **Dusty Group Private Limited**
-- Currently shaping **Trovad** as a new brand under the group
-- Interested in product engineering, automation, cloud infrastructure, and clean user experiences
-- I like work that moves fast but still feels polished
+By day and by obsession, I'm growing **[Dusty Group Private Limited](https://dustygroup.com)**, shaping new digital products, and turning early ideas into real launches. Right now, one of the big focus areas is **[Trovad](https://www.linkedin.com/company/trovad/)**.
 
-## What I'm focused on
+If it sits somewhere between product, engineering, brand, and execution, I’m probably interested.
 
-- Launching modern web products
-- Turning brand ideas into real, usable experiences
-- Exploring better workflows with AI and automation
-- Growing a strong mix of business, product, and engineering execution
+## What I'm usually up to
 
-## Tech stack
+- Building products from zero to launch
+- Mixing founder energy with hands-on execution
+- Designing cleaner user experiences
+- Exploring automation, AI workflows, and modern web systems
+- Making things feel polished, not just functional
+
+## Currently building
+
+| Project | What it is |
+| --- | --- |
+| **Dusty Group Private Limited** | The parent company behind the ideas, launches, and experiments |
+| **Trovad** | A new brand in the works, currently in launch mode |
+| **GitHub + product workflow** | Better systems for shipping faster and cleaner |
+
+## Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
@@ -52,18 +54,25 @@ Currently building **[Trovad](https://www.linkedin.com/company/trovad/)** and tu
 ## GitHub snapshot
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heydusty&show_icons=true&hide_border=true&bg_color=00000000&title_color=1D4ED8&icon_color=1D4ED8&text_color=334155&ring_color=1D4ED8" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heydusty&show_icons=true&hide_border=true&bg_color=00000000&title_color=1D4ED8&icon_color=7C3AED&text_color=334155&ring_color=F59E0B" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heydusty&layout=compact&hide_border=true&bg_color=00000000&title_color=1D4ED8&text_color=334155" alt="Top languages" />
 </div>
 
-## Connect
+## Elsewhere on the internet
 
 - [LinkedIn](https://www.linkedin.com/in/hellodusty)
 - [Dusty Group](https://dustygroup.com)
 - [Trovad](https://www.linkedin.com/company/trovad/)
 
----
+## Fun bit
+
+```text
+Builder mindset: on
+Shipping mode: active
+Too many ideas: yes
+Stopping anytime soon: no
+```
 
 <div align="center">
-  <sub>Built with founder energy, product taste, and a lot of shipping.</sub>
+  <sub>Built with curiosity, founder energy, and a healthy amount of "let's ship it".</sub>
 </div>
