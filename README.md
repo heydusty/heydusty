@@ -14,7 +14,7 @@
 
 I like building things that feel sharp, useful, and alive.
 
-By day and by obsession, I'm growing **[Dusty Group Private Limited](https://dustygroup.com)**, shaping new digital products, and turning early ideas into real launches. Right now, one of the big focus areas is **[Trovad](https://www.linkedin.com/company/trovad/)**.
+By day and by obsession, I'm growing **[Dusty Group Private Limited](https://dustygroup.com)**, shaping new digital products, and turning early ideas into real launches. Right now, some of the names in that orbit include **[Trovad](https://www.linkedin.com/company/trovad/)**, **DustyHive LLP**, and **CovaHive**.
 
 If it sits somewhere between product, engineering, brand, and execution, I’m probably interested.
 
@@ -25,13 +25,16 @@ If it sits somewhere between product, engineering, brand, and execution, I’m p
 - Designing cleaner user experiences
 - Exploring automation, AI workflows, and modern web systems
 - Making things feel polished, not just functional
+- Building across multiple brands instead of stopping at just one lane
 
 ## Currently building
 
 | Project | What it is |
 | --- | --- |
 | **Dusty Group Private Limited** | The parent company behind the ideas, launches, and experiments |
-| **Trovad** | A new brand in the works, currently in launch mode |
+| **Trovad** | A new digital brand in the works, currently in launch mode |
+| **DustyHive LLP** | A group venture connected to the luxury and brand-building side of the ecosystem |
+| **CovaHive** | A brand I built under the broader Dusty ecosystem |
 | **GitHub + product workflow** | Better systems for shipping faster and cleaner |
 
 ## Toolbox
