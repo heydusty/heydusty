@@ -18,6 +18,8 @@ By day and by obsession, I'm growing **[Dusty Group Private Limited](https://dus
 
 If it sits somewhere between product, engineering, brand, and execution, I’m probably interested.
 
+I also completed an internship at **CertGames**, where I worked on web development and built a full-stack website experience with a strong focus on clean execution and usability.
+
 ## What I'm usually up to
 
 - Building products from zero to launch
@@ -36,6 +38,12 @@ If it sits somewhere between product, engineering, brand, and execution, I’m p
 | **DustyHive LLP** | A group venture connected to the luxury and brand-building side of the ecosystem |
 | **CovaHive** | A brand I built under the broader Dusty ecosystem |
 | **GitHub + product workflow** | Better systems for shipping faster and cleaner |
+
+## Experience highlights
+
+- **CertGames** — Internship experience in web development, including building a full-stack website project
+- **Dusty Group Private Limited** — Founder-led execution across brand, product, and launch work
+- **DustyHive LLP / CovaHive** — Brand building, operations, and venture development across the group ecosystem
 
 ## Toolbox
 
